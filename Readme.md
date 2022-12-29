@@ -1,7 +1,6 @@
-## Describe your project
+Exporting Kazakh-speaking chat archive, and correcting texts, and creating parallel text of Mistaken Kazakh and Correct Kazakh language
 
-Here write description about your project ...
+
 
 ## Links
-
-Links to your file ...
+I took archive from this telegram chat: https://t.me/narikbi_live
