@@ -4,3 +4,7 @@ Exporting Kazakh-speaking chat archive, and correcting texts, and creating paral
 
 ## Links
 I took archive from this telegram chat: https://t.me/narikbi_live
+
+
+
+by Yernar Madiyar
